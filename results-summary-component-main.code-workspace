@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Documents/My practice folder"
+	}
+],
+  "settings": {
+    "editor.formatOnSave": true,
+    "liveServer.settings.multiRootWorkspaceName": "My practice folder"
+  }
+}
